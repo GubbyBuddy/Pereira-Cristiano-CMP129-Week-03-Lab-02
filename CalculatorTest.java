@@ -1,3 +1,11 @@
+/*Name: Cristiano Pereira
+  week: 3 lab 2
+  Date: 9/25/2026
+  Course:26FA15 Computer Science II (CMP-129-80231)
+  */
+
+
+
 public class CalculatorTest {
     public static void main(String [] args){
         Calculator calc = new Calculator();

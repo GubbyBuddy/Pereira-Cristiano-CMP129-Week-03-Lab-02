@@ -2,10 +2,10 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name:Cristiano 
+- Week:3
+- Lab: 2
+- Date: 9/25/2026
 
 ## AI Use
 
